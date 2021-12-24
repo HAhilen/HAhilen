@@ -1,10 +1,5 @@
 ### Hi there 👋 I am Hilen Adhikari
 
-<!--
-**HAhilen/HAhilen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on some personal project
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Me
-Welcome To My github profile.I Am Undergraduate Computer Science Student From Purbanchal University.I Create Custom Website  Apps To Help Buisness To Do Better . I Am Also Intrested In Artificial intelligent & Machine Learning. I Hope You Find This Portfolio Intresting And Useful.
-### What do i do for Fun?
--I love playing games & watching movies.
+
